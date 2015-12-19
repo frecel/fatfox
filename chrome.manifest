@@ -1,0 +1,4 @@
+skin    browser         fatfox   chrome/browser/
+skin    communicator    fatfox   chrome/communicator/
+skin    global          fatfox   chrome/global/
+skin    mozapps         fatfox   chrome/mozapps/
